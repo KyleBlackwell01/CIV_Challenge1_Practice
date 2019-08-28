@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordProcessor", "WordProces
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessorTests", "WordProcessorTests\WordProcessorTests.csproj", "{1CB4EEA8-04D1-4F21-9390-00F6D0050750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessorApp", "WordProcessorApp\WordProcessorApp.csproj", "{06AA9AD7-4D83-4107-B3A0-CB7449F2CCB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1CB4EEA8-04D1-4F21-9390-00F6D0050750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CB4EEA8-04D1-4F21-9390-00F6D0050750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CB4EEA8-04D1-4F21-9390-00F6D0050750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AA9AD7-4D83-4107-B3A0-CB7449F2CCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AA9AD7-4D83-4107-B3A0-CB7449F2CCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AA9AD7-4D83-4107-B3A0-CB7449F2CCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AA9AD7-4D83-4107-B3A0-CB7449F2CCB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
